@@ -1,6 +1,6 @@
-# My fisrt API
+# Minha primeira API
 
-Esta é minha primeira API 
+Esta é minha primeira API feita atraves do NodeJs e express.
 
 ## Construído com
 
