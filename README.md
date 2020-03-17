@@ -1,6 +1,6 @@
 # Minha primeira API
 
-Esta é minha primeira API feita atraves do NodeJs e express.
+Esta é minha primeira API feita atraves do NodeJs e express. Nela é possivel criar, postar, editar, listar e excluir projetos usando o id de cada tarefa. Foi criado tambem middlewares para verificar quantas requisições são feitas e outra que verifica o id antes da exclusão ou edição de um projeto.
 
 ## Construído com
 
